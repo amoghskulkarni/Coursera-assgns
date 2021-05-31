@@ -11,3 +11,5 @@
     - [Course 3: Structuring Machine Learning Projects](Deep_Learning_Specialization__Deeplearning.ai/3__Structuring_Machine_Learning_Projects) (Coming soon!)
     - [Course 4: Convolutional Neural Networks](Deep_Learning_Specialization__Deeplearning.ai/4__Convolutional_Neural_Networks) (Coming soon!)
     - [Course 5: Sequence Models](Deep_Learning_Specialization__Deeplearning.ai/5__Sequence_Models) (Coming soon!)
+
+  * [Machine Learning at Stanford (by Andrew Ng)](Machine_Learning__Stanford__Andrew_Ng/)
