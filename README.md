@@ -1,4 +1,4 @@
-# Coursera-assgns
+# Programming Assignments submitted on various Coursera courses 
  
   This repository contains the solutions to the programming assignments submitted for various Coursera courses. The purpose of this repository is to showcase the progress, as well as to keep track of the concepts learned in these courses. Students who are auditing these courses should feel free to refer to these solutions should they need any help; but those who are completing the courses for certification purposes are highly discouraged from going through these solutions before they have submitted their own work (as it goes against Coursera's Honor Code). 
 
