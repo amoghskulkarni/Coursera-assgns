@@ -13,3 +13,9 @@
     - [Course 5: Sequence Models](Deep_Learning_Specialization__Deeplearning.ai/5__Sequence_Models) (Coming soon!)
 
   * [Machine Learning at Stanford (by Andrew Ng)](Machine_Learning__Stanford__Andrew_Ng/)
+
+# Datasets 
+
+Some of the assignments expect the datasets to be present in the directory that contains the solution notebook. Because of the limitations on the repository sizes, these datasets are uploaded on a private Google drive, and the link(s) have been shared below.
+  * [Deep Learning Specialization (by DeepLearning.ai)](Deep_Learning_Specialization__Deeplearning.ai/)
+  [Google drive link](https://drive.google.com/drive/folders/14plFKpqUQ6K4l7-De4LcdZVF4CSHcnbU?usp=sharing)
